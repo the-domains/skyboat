@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T07:12:02.928Z'
-dateModified: '2016-01-29T07:11:48.289Z'
+datePublished: '2016-01-29T07:17:34.898Z'
+dateModified: '2016-01-29T07:13:46.099Z'
 title: 2016 College Football National Championship
 author: []
 authors: []
