@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Originally Published January 10, 2016'
-datePublished: '2016-01-29T06:49:40.575Z'
+datePublished: '2016-01-29T06:49:40.659Z'
 dateModified: '2016-01-29T06:49:35.296Z'
 title: 'God & Dabo, The True Heartbeat of the Clemson Tigers'
 author: []
