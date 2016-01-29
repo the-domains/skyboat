@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T07:35:31.340Z'
-dateModified: '2016-01-29T07:35:26.135Z'
+datePublished: '2016-01-29T08:12:15.060Z'
+dateModified: '2016-01-29T08:12:10.887Z'
 title: 2016 College Football National Championship
 author: []
 sourcePath: _posts/2016-01-29-2016-college-football-national-championship.md
@@ -96,22 +96,17 @@ What a year. I'm incredibly proud of our team. Obviously we wanted to win the ga
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d90ebc47-257f-4241-b57e-e410b19e9a33.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/730ecf64-f957-49f0-881f-be4b8ea4092a.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48cc9aba-7d72-4955-88cd-2b4e758595f2.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df972423-a1fd-493b-8d22-9d67a6d6202c.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c95bf83-9425-4e93-acef-ac59430146ea.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a6df2a-b6be-499c-b876-0ce726394c66.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa3c4d4-ca4a-496c-ac0d-b1baa5800eeb.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65aa4416-872b-46da-9de5-68e28a377524.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1edee682-54db-4ca0-a45f-0cd04cde345a.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d5eba2f-4b64-418d-897a-9f79d8bdf670.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a218cd8-1d1e-44c6-9480-9bc479e62086.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d0f30ae-2767-4cb3-96df-a95a692d44d3.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/105cf71e-3c07-4951-adfe-3f80b9c49b7b.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df56bf21-c8ca-4474-bedc-91f53619080f.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86027380-edc0-4f48-990d-245dfcd53aa9.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b56eb4-2996-4a12-849c-7fbc90a7c3ec.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2057ebc5-9b94-4faf-9a88-65dceff95a84.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ea9267f-1a6b-4330-8ca1-552b33907da9.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c064d39d-25b0-480b-abc8-a527e8402327.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dedcc44-9577-46cf-bbb6-1f4823bd9bfb.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bce972a-5247-4db9-826a-906fb884b4d4.JPG)
 
