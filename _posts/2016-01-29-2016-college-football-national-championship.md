@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T08:12:16.404Z'
-dateModified: '2016-01-29T08:12:10.887Z'
+datePublished: '2016-01-29T08:32:31.231Z'
+dateModified: '2016-01-29T08:32:28.317Z'
 title: 2016 College Football National Championship
 author: []
 sourcePath: _posts/2016-01-29-2016-college-football-national-championship.md
@@ -23,9 +23,9 @@ _type: Article
 
 ---
 ## [Alabama once again Champions of College Football][0]
+![(Photo Credit: Adrian Beecher / The SkyBoat)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60dd8e17-e09d-4e92-b8cb-67c554b3a310.jpg)
 
 Written by Adrian Beecher
-![(Photo Credit: Adrian Beecher / The SkyBoat)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60dd8e17-e09d-4e92-b8cb-67c554b3a310.jpg)
 
 **Glendale, AZ -**
 
