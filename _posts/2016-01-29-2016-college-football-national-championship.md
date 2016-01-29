@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T08:32:31.231Z'
+datePublished: '2016-01-29T08:32:31.179Z'
 dateModified: '2016-01-29T08:32:28.317Z'
 title: 2016 College Football National Championship
 author: []
