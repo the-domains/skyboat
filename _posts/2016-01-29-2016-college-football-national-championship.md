@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T07:21:42.330Z'
-dateModified: '2016-01-29T07:21:37.314Z'
+datePublished: '2016-01-29T07:35:31.461Z'
+dateModified: '2016-01-29T07:35:26.135Z'
 title: 2016 College Football National Championship
 author: []
 sourcePath: _posts/2016-01-29-2016-college-football-national-championship.md
@@ -85,4 +85,35 @@ What a year. I'm incredibly proud of our team. Obviously we wanted to win the ga
 
 "I would like to congratulate them on the great season that they had."
 
+## [National Championship Postgame Celebration -Gallery][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f2ffb36-34d0-457f-8cd2-6bff3f2972ed.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a68a331-97ec-40de-8b46-527889ef21e3.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9154c59-fe50-478a-a53e-7c8d0706c3fd.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bcd0803-5fc8-4c60-8ed3-59e8a9597460.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f27a4ad6-0e40-4794-9a17-f8a4fd11d627.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08643bae-ccc3-42d2-b64b-c5671240c4f7.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5339b76f-6504-45df-b63e-9ffa51ab5087.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d90ebc47-257f-4241-b57e-e410b19e9a33.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/730ecf64-f957-49f0-881f-be4b8ea4092a.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48cc9aba-7d72-4955-88cd-2b4e758595f2.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df972423-a1fd-493b-8d22-9d67a6d6202c.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c95bf83-9425-4e93-acef-ac59430146ea.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a6df2a-b6be-499c-b876-0ce726394c66.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa3c4d4-ca4a-496c-ac0d-b1baa5800eeb.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65aa4416-872b-46da-9de5-68e28a377524.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1edee682-54db-4ca0-a45f-0cd04cde345a.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d5eba2f-4b64-418d-897a-9f79d8bdf670.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a218cd8-1d1e-44c6-9480-9bc479e62086.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d0f30ae-2767-4cb3-96df-a95a692d44d3.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/105cf71e-3c07-4951-adfe-3f80b9c49b7b.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df56bf21-c8ca-4474-bedc-91f53619080f.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86027380-edc0-4f48-990d-245dfcd53aa9.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b56eb4-2996-4a12-849c-7fbc90a7c3ec.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2057ebc5-9b94-4faf-9a88-65dceff95a84.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ea9267f-1a6b-4330-8ca1-552b33907da9.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c064d39d-25b0-480b-abc8-a527e8402327.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dedcc44-9577-46cf-bbb6-1f4823bd9bfb.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bce972a-5247-4db9-826a-906fb884b4d4.JPG)
+
 [0]: http://www.theskyboat.com/2016-college-football-playoff-national-championship-jan-11/alabama-once-again-champions-of-college-football
+[1]: http://www.theskyboat.com/2016-college-football-playoff-national-championship-jan-11/national-championship-postgame-celebration-gallery
