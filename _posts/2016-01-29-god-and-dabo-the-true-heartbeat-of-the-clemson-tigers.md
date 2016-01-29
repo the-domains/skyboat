@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Originally Published January 10, 2016'
-datePublished: '2016-01-29T07:17:45.971Z'
-dateModified: '2016-01-29T07:13:41.682Z'
+datePublished: '2016-01-29T07:46:00.012Z'
+dateModified: '2016-01-29T07:45:56.820Z'
 title: 'God & Dabo, The True Heartbeat of the Clemson Tigers'
 author: []
 sourcePath: _posts/2016-01-29-god-and-dabo-the-true-heartbeat-of-the-clemson-tigers.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: god-and-dabo-the-true-heartbeat-of-the-clemson-tigers/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 Written by Adrian Beecher
