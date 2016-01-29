@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T07:17:35.115Z'
-dateModified: '2016-01-29T07:13:46.099Z'
+datePublished: '2016-01-29T07:21:42.104Z'
+dateModified: '2016-01-29T07:21:37.314Z'
 title: 2016 College Football National Championship
 author: []
+sourcePath: _posts/2016-01-29-2016-college-football-national-championship.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-2016-college-football-national-championship.md
-published: true
 url: 2016-college-football-national-championship/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## [Alabama once again Champions of College Football][0]
