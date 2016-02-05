@@ -1,6 +1,6 @@
 name: SkyBoat
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76962
 typography_spectrum: 0.28631
 title: The SkyBoat
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5
+  brandStrength: 0.5625
   lightness: 0.5625
   saturation: 0.5234738918952644
   rhythmicContrast: 0.5
